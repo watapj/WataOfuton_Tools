@@ -1,0 +1,11 @@
+{
+    "name": "com.wata_pj.wataofuton_tools",
+    "displayName": "WataOfuton_Tools",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "WataOfuton Tools.",
+    "author": {
+        "name": "wata_pj",
+        "url": "https://github.com/watapj"
+    }
+}

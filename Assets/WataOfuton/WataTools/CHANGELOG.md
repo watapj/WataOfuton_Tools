@@ -2,7 +2,15 @@
 
 ## [1.0.0] - 2024-04-27
 ### This is the first release of *WataOfuton Tools*.
-- Added support for Unity Package Manager.
+- AssetPostprocessors
+  - CustomAssetImportProcessor
+  - ImportFolderUnifier
+  - PrefabBoundsAutoFixer
+- AssetsRegistry
+- Etc
+  - RemoveEditorOnlyObjects
+  - UnusedPropertiesRemover
+- ShaderUtils
 
 <!-- sample
 ## [1.2.0] - 2021-01-03
